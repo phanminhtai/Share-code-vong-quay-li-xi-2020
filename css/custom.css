@@ -210,7 +210,7 @@
   }
 }
          body {
-         background: url("img/background.jpg") no-repeat fixed center;
+         background: url("../img/background.jpg") no-repeat fixed center;
          background-position: center center;
          background-size: cover;
          font-size: 30px;
@@ -223,14 +223,14 @@
          align-items: center;
          }
          .nutbatdau{
-         background-image: url('img/contro.png');
+         background-image: url('../img/contro.png');
          position: absolute;
          width:180px;
          height: 180px;
          z-index: 99;
          }
          .nutcaidat{
-         background-image: url('img/caidat.png');
+         background-image: url('../img/caidat.png');
          cursor: pointer;
          width:120px;
          height: 40px;
@@ -238,7 +238,7 @@
          align-items: center;
          }
          .nutcaidat:hover{
-         background-image: url('img/caidathover.png');
+         background-image: url('../img/caidathover.png');
          }
 
 
